@@ -1,0 +1,10 @@
+<html>
+  <head>
+    <title>Alens Rechnen-Seite</title>
+  </head>
+  <body>
+    <p>{{a}} x {{b}} = 
+      <input type="text" class="form-control" id="answer" name="answer" placeholder="?">
+    <p>
+  </body>
+</html>
